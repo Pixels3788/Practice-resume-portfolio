@@ -1,0 +1,193 @@
+.top-div {
+    width: 1000px;
+    height: 200px;
+    background-color:#023047;
+    position: absolute;
+    left: 31%;
+    margin: 0 auto;
+    z-index: 50;
+    border-radius: 25px;
+}
+
+.next-div {
+    width: 613px;
+    height: 408px;
+    position:absolute;
+    top: 300px;
+    left: 1000px;
+    border: 3px solid black;
+    
+}
+
+.about-me-div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    position: relative;
+    top: 800px;
+    left: 35px;
+    
+}
+
+.work-history-div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    position: relative;
+    top: 802px;
+    left: 35px;
+}
+
+.education-div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    position: relative;
+    top: 800px;
+    left: 35px;
+}
+
+.skills-div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    position: relative;
+    top: 800px;
+    left: 35px;
+}
+
+.certifications-div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    position: relative;
+    top: 800px;
+    left: 35px;
+}
+
+.contact-div {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    position: Relative;
+    top: 800px;
+    left: 35px;
+}
+
+.link-github-div {
+    height: 100px;
+    width: 200px;
+    background-color: #0d1b2a; 
+    position: absolute;
+    top: 50px;
+    left: 10%;
+    z-index: 100;
+    border: 2px solid black;
+    
+}
+
+.link-indeed-div {
+    height: 100px;
+    width: 200px;
+    background-color: #0d1b2a;
+    position: absolute;
+    top: 50px;
+    left: 40%;
+    z-index: 100;
+    border: 2px solid black;
+
+}
+
+.linkedin-div {
+    height: 100px;
+    width: 200px;
+    background-color: #0d1b2a;
+    position: absolute;
+    top: 50px;
+    left: 70%;
+    z-index: 100;
+    border: 2px solid black;
+}
+
+.text-center-github-link {
+    margin: 0;
+    position: absolute;
+    left: 26%;
+    top: 34px;
+    font-size: x-large
+    
+
+}
+
+.text-center-indeed-link {
+    margin: 0;
+    position: absolute;
+    left: 26%;
+    top: 34px;
+    font-size: x-large;
+}
+
+.text-center-linkedin {
+    margin: 0;
+    position: absolute;
+    left: 20%;
+    top: 34px;
+    font-size: x-large;
+}
+
+
+
+.site-background-color {
+    background-color: #2d3142;
+}
+
+h1 {
+    font-family: "Carattere", cursive;
+    font-size: 5rem;
+    text-align:center;
+}
+
+p {
+    color: white;
+    font-size: large;
+}
+
+.work-history-div > h2 {
+    font-family: "Carattere", cursive;
+    font-size: 3rem;
+    position:relative;
+    left: 20px;
+}
+
+.education-div > h2 {
+    font-family: "Carattere", cursive;
+    font-size: 3rem;
+    position: relative;
+    left: 20px;
+}
+
+.skills-div > h2 {
+    font-family: "Carattere", cursive;
+    font-size: 3rem;
+    position:relative;
+    left: 20px;
+}
+
+.certifications-div > h2 {
+    font-family: "Carattere", cursive;
+    font-size: 3rem;
+    position: relative;
+    left: 20px;
+}
+
+.contact-div > h2 {
+    font-family: "Carattere", cursive;
+    font-size: 3rem;
+    position: relative;
+    left: 20px;
+}
+
+li {
+    color: white;
+    font-size: large;
+}
